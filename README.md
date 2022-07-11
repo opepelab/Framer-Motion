@@ -1,4 +1,3 @@
 # Framer-Motion
-import this componets  
-your pages all in one changing parameter  
-＜Framerdiv＞pagesContents＜Framerdiv /＞
+一括管理するためにコンポーネントとしてモジュール化した。
+主にLayoutなどに用いられるchildrenを活用。
